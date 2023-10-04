@@ -1,6 +1,8 @@
 # Hafsa-Noorain.github.io
 
-# Build a website that is hosted on github pages.
+# Portfolio Website
+
+Build a website that is hosted on github pages.
 
 The website should be mobile-responsive, use Bootstrap, and showcase your CV.
 
