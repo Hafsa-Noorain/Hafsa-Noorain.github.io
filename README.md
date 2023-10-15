@@ -12,4 +12,4 @@ I have used TypeScript for the animation part.
 
 #Kanban Board
 
-![](KANBAN/kanban)
+![](KANBAN/kanban.png)
