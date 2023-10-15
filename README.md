@@ -12,4 +12,4 @@ I have used TypeScript for the animation part.
 
 #Kanban Board
 
-!["C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2023-10-15 140835.png"]
+
