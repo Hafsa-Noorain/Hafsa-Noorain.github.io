@@ -10,6 +10,6 @@ Link: https://Hafsa-Noorain.github.io/Portfolio/
 
 I have used TypeScript for the animation part.
 
-##Kanban Board
+# Kanban Board
 
 ![](KANBAN/kanban.png)
